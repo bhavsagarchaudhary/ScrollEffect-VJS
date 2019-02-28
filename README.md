@@ -1,1 +1,1 @@
-# ScrollEffect-VJS
+# A very simple ScrollEffect-V-JS
